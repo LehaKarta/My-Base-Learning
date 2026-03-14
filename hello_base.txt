@@ -1,2 +1,3 @@
 «Hello Base! This is my first repo»
 Fact 1: Base is an Ethereum Layer 2 network built on Optimism’s OP Stack.
+Fact 3: Base does not have its own token (gas fees are paid in ETH), which reduces regulatory risks.
