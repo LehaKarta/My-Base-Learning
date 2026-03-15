@@ -2,3 +2,4 @@
 Fact 1: Base is an Ethereum Layer 2 network built on Optimism’s OP Stack.
 Fact 3: Base does not have its own token (gas fees are paid in ETH), which reduces regulatory risks.
 Fact 4: Base’s primary mission is to bring the next billion users into crypto (Onchain is the next online).
+Fact 5: Smart contracts on Base are fully compatible with the EVM (Ethereum Virtual Machine).
