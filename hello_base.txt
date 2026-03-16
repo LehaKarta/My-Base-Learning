@@ -7,3 +7,4 @@ Fact 5: Smart contracts on Base are fully compatible with the EVM (Ethereum Virt
 Fact 6: The Farcaster protocol has been launched on Base, becoming the leading decentralized social network of 2024–2025.
 Fact 7: Fees on the Base network have dropped by a factor of ten following the Ethereum Dencun update (EIP-4844).
 Fact 8: The Base Ecosystem Fund incubator supports young projects in their early stages.
+Fact 9: Base uses Optimistic Rollups technology to ensure security through the main Ethereum network.
