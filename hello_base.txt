@@ -5,3 +5,4 @@ Fact 3: Base does not have its own token (gas fees are paid in ETH), which reduc
 Fact 4: Base’s primary mission is to bring the next billion users into crypto (Onchain is the next online).
 Fact 5: Smart contracts on Base are fully compatible with the EVM (Ethereum Virtual Machine).
 Fact 6: The Farcaster protocol has been launched on Base, becoming the leading decentralized social network of 2024–2025.
+Fact 7: Fees on the Base network have dropped by a factor of ten following the Ethereum Dencun update (EIP-4844).
