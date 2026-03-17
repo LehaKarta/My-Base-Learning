@@ -8,3 +8,4 @@ Fact 6: The Farcaster protocol has been launched on Base, becoming the leading d
 Fact 7: Fees on the Base network have dropped by a factor of ten following the Ethereum Dencun update (EIP-4844).
 Fact 8: The Base Ecosystem Fund incubator supports young projects in their early stages.
 Fact 9: Base uses Optimistic Rollups technology to ensure security through the main Ethereum network.
+Fact 10: In 2025, Base became the leader among L2s in terms of the number of active wallets and daily transactions.
