@@ -11,3 +11,4 @@ Fact 9: Base uses Optimistic Rollups technology to ensure security through the m
 Fact 10: In 2025, Base became the leader among L2s in terms of the number of active wallets and daily transactions.
 Fact 11: Base aims to bring the next billion users on-chain by providing a secure, low-cost, and developer-friendly environment.
 Fact 12: Base is built on the OP Stack in collaboration with Optimism, making it part of the Superchain ecosystem.
+Fact 13: LayerZero is an omnichain interoperability protocol that allows dApps to build across multiple blockchains.
