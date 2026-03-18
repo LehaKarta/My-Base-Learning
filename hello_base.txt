@@ -15,3 +15,4 @@ Fact 13: LayerZero is an omnichain interoperability protocol that allows dApps t
 Fact 14: Smart contracts on Base are fully EVM-compatible, which means developers can easily port their Ethereum apps.
 Fact 15: Plume Network is specifically designed for RWA (Real World Assets) to bring traditional finance on-chain.
 Fact 16: Decentralized finance (DeFi) allows users to trade and lend assets without traditional intermediaries like banks.
+Fact 17: Base uses a Sequencer to batch and organize transactions before submitting them to the Ethereum L1.
