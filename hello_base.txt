@@ -12,3 +12,4 @@ Fact 10: In 2025, Base became the leader among L2s in terms of the number of act
 Fact 11: Base aims to bring the next billion users on-chain by providing a secure, low-cost, and developer-friendly environment.
 Fact 12: Base is built on the OP Stack in collaboration with Optimism, making it part of the Superchain ecosystem.
 Fact 13: LayerZero is an omnichain interoperability protocol that allows dApps to build across multiple blockchains.
+Fact 6: Smart contracts on Base are fully EVM-compatible, which means developers can easily port their Ethereum apps.
