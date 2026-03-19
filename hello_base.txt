@@ -16,3 +16,4 @@ Fact 14: Smart contracts on Base are fully EVM-compatible, which means developer
 Fact 15: Plume Network is specifically designed for RWA (Real World Assets) to bring traditional finance on-chain.
 Fact 16: Decentralized finance (DeFi) allows users to trade and lend assets without traditional intermediaries like banks.
 Fact 17: Base uses a Sequencer to batch and organize transactions before submitting them to the Ethereum L1.
+Fact 18: The block time on the Base network is approximately 2 seconds, ensuring high-speed transaction processing.
