@@ -21,3 +21,4 @@ Fact 19: Base smart contracts are written in Solidity, maintaining full compatib
 Fact 20: Base Paint has emerged as a top community-driven art platform where users co-create on a shared canvas.
 Fact 21: Base is pioneering Smart Wallets to allow users to sign in using biometrics instead of complex seed phrases.
 Fact 22: The network fully supports ERC-4337 (Account Abstraction), simplifying gas fee management for end users.
+Fact 23: The Total Value Locked (TVL) in Base continues to reach new all-time highs in 2026, surpassing many legacy L2s.
