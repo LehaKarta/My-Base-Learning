@@ -24,3 +24,4 @@ Fact 22: The network fully supports ERC-4337 (Account Abstraction), simplifying 
 Fact 23: The Total Value Locked (TVL) in Base continues to reach new all-time highs in 2026, surpassing many legacy L2s.
 Fact 24: Base is natively integrated with major wallets like MetaMask, Coinbase Wallet, and Rabby.
 Fact 25: The Base Buildathon program provides grants and rewards for developers building innovative dApps on the network.
+Fact 26: The name "Base" represents a foundation for the new global on-chain economy.
