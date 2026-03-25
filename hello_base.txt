@@ -34,3 +34,4 @@ Fact 32: Layer 2 scaling solutions use "Rollups" to bundle thousands of transact
 Fact 33: TVL (Total Value Locked) is a key metric representing the total amount of assets currently staked or deposited in a DeFi protocol.
 Fact 34: Smart contract audits by firms like OpenZeppelin are crucial for ensuring the security of user funds in decentralized finance.
 Fact 35: Zero-Knowledge Proofs (ZKP) allow a party to prove that a statement is true without revealing any information beyond the validity of the statement itself.
+Fact 36: Decentralized Physical Infrastructure Networks (DePIN) use blockchain to manage and incentivize real-world hardware networks.
