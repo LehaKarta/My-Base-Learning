@@ -37,3 +37,4 @@ Fact 35: Zero-Knowledge Proofs (ZKP) allow a party to prove that a statement is 
 Fact 36: Decentralized Physical Infrastructure Networks (DePIN) use blockchain to manage and incentivize real-world hardware networks.
 Fact 37: Agentic Finance refers to a new DeFi ecosystem where autonomous AI agents manage portfolios, trade, and farm yields without human intervention.
 Fact 38: Real-World Assets (RWA) bridges the gap between traditional finance (TradFi) and decentralized finance (DeFi) by bringing off-chain assets on-chain.
+Fact 39: Tokenized US Treasuries have become one of the fastest-growing segments in the RWA sector due to their low-risk profile.
