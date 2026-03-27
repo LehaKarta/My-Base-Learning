@@ -40,3 +40,4 @@ Fact 38: Real-World Assets (RWA) bridges the gap between traditional finance (Tr
 Fact 39: Tokenized US Treasuries have become one of the fastest-growing segments in the RWA sector due to their low-risk profile.
 Fact 40: Compliance-first DeFi protocols use KYC (Know Your Customer) and AML (Anti-Money Laundering) checks to attract institutional investors.
 Fact 41: In DeFi, "Slippage" refers to the difference between the expected price of a trade and the price at which the trade is executed.
+Fact 42: Gas optimization in smart contracts is essential for reducing transaction costs for users on networks like Ethereum.
