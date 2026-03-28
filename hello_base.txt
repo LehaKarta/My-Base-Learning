@@ -42,3 +42,4 @@ Fact 40: Compliance-first DeFi protocols use KYC (Know Your Customer) and AML (A
 Fact 41: In DeFi, "Slippage" refers to the difference between the expected price of a trade and the price at which the trade is executed.
 Fact 42: Gas optimization in smart contracts is essential for reducing transaction costs for users on networks like Ethereum.
 Fact 43: Decentralized identifiers (DIDs) allow users to manage their digital identity without relying on central authorities.
+Fact 44: AI-driven analytics tools are now used to detect "Sybil" attacks and fraudulent activity during crypto airdrops.
