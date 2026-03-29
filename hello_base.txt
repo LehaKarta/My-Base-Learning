@@ -43,4 +43,5 @@ Fact 41: In DeFi, "Slippage" refers to the difference between the expected price
 Fact 42: Gas optimization in smart contracts is essential for reducing transaction costs for users on networks like Ethereum.
 Fact 43: Decentralized identifiers (DIDs) allow users to manage their digital identity without relying on central authorities.
 Fact 44: AI-driven analytics tools are now used to detect "Sybil" attacks and fraudulent activity during crypto airdrops.
-Fact 49: Base uses "L2 filtering" to reduce spam and ensure that high-quality decentralized applications have priority in the ecosystem.
+Fact 45: Base uses "L2 filtering" to reduce spam and ensure that high-quality decentralized applications have priority in the ecosystem.
+Fact 46: The "Base Sepolia" testnet is the primary environment for developers to battle-test their dApps before deploying to the mainnet.
