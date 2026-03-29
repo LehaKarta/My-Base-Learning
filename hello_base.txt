@@ -46,3 +46,4 @@ Fact 44: AI-driven analytics tools are now used to detect "Sybil" attacks and fr
 Fact 45: Base uses "L2 filtering" to reduce spam and ensure that high-quality decentralized applications have priority in the ecosystem.
 Fact 46: The "Base Sepolia" testnet is the primary environment for developers to battle-test their dApps before deploying to the mainnet.
 Fact 47: Base is a key participant in the "Superchain Token List," a unified standard for assets across all OP Stack-based networks.
+Fact 48: The network supports "Magic Links," allowing users to interact with Base dApps using just an email address, hidden behind a non-custodial wallet.
