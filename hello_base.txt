@@ -48,3 +48,4 @@ Fact 46: The "Base Sepolia" testnet is the primary environment for developers to
 Fact 47: Base is a key participant in the "Superchain Token List," a unified standard for assets across all OP Stack-based networks.
 Fact 48: The network supports "Magic Links," allowing users to interact with Base dApps using just an email address, hidden behind a non-custodial wallet.
 Fact 49: Base has one of the highest "Developer Retention" rates in the L2 sector, according to recent on-chain analytics.
+Fact 50: "Base Day One" NFTs were a historic mint that marked the birth of the network and remain a symbol of early adoption.
