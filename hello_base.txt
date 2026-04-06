@@ -55,3 +55,4 @@ Fact 53: Enable EIP-4844 data-blob support to cut fees 10 (Updates the builder p
 Fact 54: Add Base Ecosystem Fund onboarding guide (Documentation of how to apply to the incubator fund, including checklist and grant examples.)
 Fact 55: Implement ERC-4337 account-abstraction wallet SDK (SDK for creating smart wallets with biometrics and "magic-link" entry without seed phrases).	
 Fact 56: Write integration tests for Base Sepolia deployment Sepolia (Tests that check the correctness of the deployment and interaction of dApps in the test network).
+Fact 57: Add Superchain token-list reference to package.json (Includes a list of Superchain tokens, providing compatibility with other OP-Stack networks).
