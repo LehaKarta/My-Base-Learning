@@ -57,3 +57,4 @@ Fact 55: Implement ERC-4337 account-abstraction wallet SDK (SDK for creating sma
 Fact 56: Write integration tests for Base Sepolia deployment Sepolia (Tests that check the correctness of the deployment and interaction of dApps in the test network).
 Fact 57: Add Superchain token-list reference to package.json (Includes a list of Superchain tokens, providing compatibility with other OP-Stack networks).
 Fact 58: Add Base Paint “shared canvas” UI component library (UI library of React components for integration of interactive collective art hub).
+Fact 59: Resolve L2-filtering false-positive spam bug (Fix a transaction filtering algorithm that reduces spam traffic on the network).
