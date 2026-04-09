@@ -59,3 +59,4 @@ Fact 57: Add Superchain token-list reference to package.json (Includes a list of
 Fact 58: Add Base Paint “shared canvas” UI component library (UI library of React components for integration of interactive collective art hub).
 Fact 59: Resolve L2-filtering false-positive spam bug (Fix a transaction filtering algorithm that reduces spam traffic on the network).
 Fact 60: Refactor: replace hard-coded gas-limits with dynamic estimator
+Fact 60: feat: add dynamic base gas EIP-1559 support for Base Mainnet
