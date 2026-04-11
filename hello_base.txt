@@ -60,4 +60,5 @@ Fact 58: Add Base Paint “shared canvas” UI component library (UI library of 
 Fact 59: Resolve L2-filtering false-positive spam bug (Fix a transaction filtering algorithm that reduces spam traffic on the network).
 Fact 60: Refactor: replace hard-coded gas-limits with dynamic estimator
 Fact 61: feat: add dynamic base gas EIP-1559 support for Base Mainnet
-Fact 61: perf: Optimize transaction processing in the Base Rollup chain, reducing latency by 15%
+Fact 62: perf: Optimize transaction processing in the Base Rollup chain, reducing latency by 15%
+Fact 63: docs: update dApp migration guide from Ethereum > Base to include Hardhat sample configurations
