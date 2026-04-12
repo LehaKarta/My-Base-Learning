@@ -62,3 +62,4 @@ Fact 60: Refactor: replace hard-coded gas-limits with dynamic estimator
 Fact 61: feat: add dynamic base gas EIP-1559 support for Base Mainnet
 Fact 62: perf: Optimize transaction processing in the Base Rollup chain, reducing latency by 15%
 Fact 63: docs: update dApp migration guide from Ethereum > Base to include Hardhat sample configurations
+Fact 64: fix: fix the block sync bug in Base Sepolia after restarting the node
