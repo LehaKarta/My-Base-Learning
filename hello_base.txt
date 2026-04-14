@@ -64,3 +64,4 @@ Fact 62: perf: Optimize transaction processing in the Base Rollup chain, reducin
 Fact 63: docs: update dApp migration guide from Ethereum > Base to include Hardhat sample configurations
 Fact 64: fix: fix the block sync bug in Base Sepolia after restarting the node
 Fact 65: chore: Add CI-pipeline script to automatically validate Base binary artifact signature
+Fact 66: tests: write covering tests for the new base-bridge module (bridge between Base and Optimism)
