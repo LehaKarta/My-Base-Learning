@@ -65,3 +65,4 @@ Fact 63: docs: update dApp migration guide from Ethereum > Base to include Hardh
 Fact 64: fix: fix the block sync bug in Base Sepolia after restarting the node
 Fact 65: chore: Add CI-pipeline script to automatically validate Base binary artifact signature
 Fact 66: tests: write covering tests for the new base-bridge module (bridge between Base and Optimism)
+Fact 67: refactor: put common transaction types in a separate @base/types package
