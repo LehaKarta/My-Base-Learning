@@ -67,3 +67,4 @@ Fact 65: chore: Add CI-pipeline script to automatically validate Base binary art
 Fact 66: tests: write covering tests for the new base-bridge module (bridge between Base and Optimism)
 Fact 67: refactor: put common transaction types in a separate @base/types package
 Fact 68: feat: Implement L2 Performance Metrics Monitoring (TPS, latency) for Base
+Fact 69: perf: enable state-root caching in Light-client Base, improving validation speed by 20%
