@@ -68,3 +68,4 @@ Fact 66: tests: write covering tests for the new base-bridge module (bridge betw
 Fact 67: refactor: put common transaction types in a separate @base/types package
 Fact 68: feat: Implement L2 Performance Metrics Monitoring (TPS, latency) for Base
 Fact 69: perf: enable state-root caching in Light-client Base, improving validation speed by 20%
+Fact 70: docs: add "Best Practices" section on using ERC-20 tokens in Base
