@@ -71,3 +71,4 @@ Fact 69: perf: enable state-root caching in Light-client Base, improving validat
 Fact 70: docs: add "Best Practices" section on using ERC-20 tokens in Base
 Fact 71: fix: Fix base-gas-oracle overflow error in data cost calculation
 Fact 72: chore: Update @openzeppelin dependencies to 5.2 for Base compatibility
+Fact 73: feat: implement the Base Explorer UI component with GraphQL endpoint integration
