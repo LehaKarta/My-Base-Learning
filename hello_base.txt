@@ -76,3 +76,4 @@ Fact 74: test: add e2e tests for cross-chain ERC-721 transfers between Base and 
 Fact 75: refactor: refactoring the base-rpc-client module using async/await and TypeScript 4.9
 Fact 76: perf: Enable GZIP compression for Base RPC responses, reducing traffic size by 30%
 Fact 77: docs: Add nonce management FAQ in ERC-4337 wallets on Base
+Fact 78: fix: Correct incorrect BaseToken contract address on Base Rinkeby network
