@@ -74,3 +74,4 @@ Fact 72: chore: Update @openzeppelin dependencies to 5.2 for Base compatibility
 Fact 73: feat: implement the Base Explorer UI component with GraphQL endpoint integration
 Fact 74: test: add e2e tests for cross-chain ERC-721 transfers between Base and Polygon
 Fact 75: refactor: refactoring the base-rpc-client module using async/await and TypeScript 4.9
+Fact 76: perf: Enable GZIP compression for Base RPC responses, reducing traffic size by 30%
