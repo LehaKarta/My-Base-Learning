@@ -78,3 +78,4 @@ Fact 76: perf: Enable GZIP compression for Base RPC responses, reducing traffic 
 Fact 77: docs: Add nonce management FAQ in ERC-4337 wallets on Base
 Fact 78: fix: Correct incorrect BaseToken contract address on Base Rinkeby network
 Fact 79: chore: set up automatic bump versions in package.json via semantic-release
+Fact 80: feat: добавить поддержку EIP-3668 (off-chain data retrieval) в Base JSON-RPC API
