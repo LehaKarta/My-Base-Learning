@@ -80,3 +80,4 @@ Fact 78: fix: Correct incorrect BaseToken contract address on Base Rinkeby netwo
 Fact 79: chore: set up automatic bump versions in package.json via semantic-release
 Fact 80: feat: добавить поддержку EIP-3668 (off-chain data retrieval) в Base JSON-RPC API
 Fact 81: feat – Add support for EIP-1559 dynamic fee market on Base mainnet, enabling more predictable transaction pricing
+Fact 82: perf – Introduce batch verification for zk-rollup proofs in Base, cutting verification latency by ~12 %
