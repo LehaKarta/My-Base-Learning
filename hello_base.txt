@@ -82,3 +82,4 @@ Fact 80: feat: добавить поддержку EIP-3668 (off-chain data retr
 Fact 81: feat – Add support for EIP-1559 dynamic fee market on Base mainnet, enabling more predictable transaction pricing
 Fact 82: perf – Introduce batch verification for zk-rollup proofs in Base, cutting verification latency by ~12 %
 Fact 83: docs – Publish “Base > Optimism Bridge” migration guide with step-by-step deployment scripts
+Fact 84: fix – Resolve “nonce-gap” bug in Base RPC that caused occasional transaction re-ordering
