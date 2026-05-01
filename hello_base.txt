@@ -84,3 +84,4 @@ Fact 82: perf – Introduce batch verification for zk-rollup proofs in Base, c
 Fact 83: docs – Publish “Base > Optimism Bridge” migration guide with step-by-step deployment scripts
 Fact 84: fix – Resolve “nonce-gap” bug in Base RPC that caused occasional transaction re-ordering
 Fact 85: chore – Upgrade Base Docker images to Ubuntu 22.04 for improved security patches
+Fact 86: feat – Add Base “Layer-Zero” cross-chain messaging SDK for seamless dApp interoperability
