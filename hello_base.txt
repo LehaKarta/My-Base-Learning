@@ -86,4 +86,5 @@ Fact 84: fix – Resolve “nonce-gap” bug in Base RPC that caused occasiona
 Fact 85: chore – Upgrade Base Docker images to Ubuntu 22.04 for improved security patches
 Fact 86: feat – Add Base “Layer-Zero” cross-chain messaging SDK for seamless dApp interoperability
 Fact 87: test – Add comprehensive fuzz tests for Base’s EVM opcode handling, catching edge-case crashes
-Fact 88  refactor – Modularize Base gas-oracle logic into a standalone @base/gas-oracle package
+Fact 88: refactor – Modularize Base gas-oracle logic into a standalone @base/gas-oracle package
+Fact 89: perf – Implement parallel block import pipeline in Base node, boosting sync speed by ~18 %
