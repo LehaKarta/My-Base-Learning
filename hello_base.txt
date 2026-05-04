@@ -88,3 +88,4 @@ Fact 86: feat – Add Base “Layer-Zero” cross-chain messaging SDK for seam
 Fact 87: test – Add comprehensive fuzz tests for Base’s EVM opcode handling, catching edge-case crashes
 Fact 88: refactor – Modularize Base gas-oracle logic into a standalone @base/gas-oracle package
 Fact 89: perf – Implement parallel block import pipeline in Base node, boosting sync speed by ~18 %
+Fact 90: docs – Create “Base Testnet Faucet” documentation with automated request CLI
