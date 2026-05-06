@@ -91,3 +91,4 @@ Fact 89: perf – Implement parallel block import pipeline in Base node, boost
 Fact 90: docs – Create “Base Testnet Faucet” documentation with automated request CLI
 Fact 91: feat – Integrate ABI-encoded EIP-2535 Diamond proxy pattern for upgradeable contracts on Base
 Fact 92: fix – Patch memory leak in Base’s JSON-RPC websockets handling, reducing server RAM usage
+Fact 93: chore – Add CI workflow to run static analysis (Slither) on all Base smart-contract repos
