@@ -93,3 +93,4 @@ Fact 91: feat – Integrate ABI-encoded EIP-2535 Diamond proxy pattern for upg
 Fact 92: fix – Patch memory leak in Base’s JSON-RPC websockets handling, reducing server RAM usage
 Fact 93: chore – Add CI workflow to run static analysis (Slither) on all Base smart-contract repos
 Fact 94: perf – Enable LZ4 compression for Base node snapshots, shrinking download size by ~35 %
+Fact 95: docs – Update “Base Gas Estimation” guide to include EIP-1559 tip-cap calculations
