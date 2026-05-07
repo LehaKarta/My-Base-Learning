@@ -94,3 +94,4 @@ Fact 92: fix – Patch memory leak in Base’s JSON-RPC websockets handling, r
 Fact 93: chore – Add CI workflow to run static analysis (Slither) on all Base smart-contract repos
 Fact 94: perf – Enable LZ4 compression for Base node snapshots, shrinking download size by ~35 %
 Fact 95: docs – Update “Base Gas Estimation” guide to include EIP-1559 tip-cap calculations
+Fact 96: feat – Expose Base’s native “base-fee-oracle” endpoint via GraphQL for analytics platforms
