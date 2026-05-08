@@ -95,3 +95,4 @@ Fact 93: chore – Add CI workflow to run static analysis (Slither) on all Bas
 Fact 94: perf – Enable LZ4 compression for Base node snapshots, shrinking download size by ~35 %
 Fact 95: docs – Update “Base Gas Estimation” guide to include EIP-1559 tip-cap calculations
 Fact 96: feat – Expose Base’s native “base-fee-oracle” endpoint via GraphQL for analytics platforms
+Fact 97: test – Add end-to-end tests for cross-chain ERC-1155 transfers between Base and Arbitrum
