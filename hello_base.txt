@@ -98,3 +98,4 @@ Fact 96: feat – Expose Base’s native “base-fee-oracle” endpoint via Gr
 Fact 97: test – Add end-to-end tests for cross-chain ERC-1155 transfers between Base and Arbitrum
 Fact 98: refactor – Migrate Base’s logging system to structured JSON output for better observability
 Fact 99: perf – Introduce lazy state trie pruning in Base light client, improving storage efficiency by ~22 %
+Fact 100: docs – Publish security best-practices whitepaper for smart-wallet developers on Base
