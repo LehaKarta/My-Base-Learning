@@ -100,3 +100,4 @@ Fact 98: refactor – Migrate Base’s logging system to structured JSON outpu
 Fact 99: perf – Introduce lazy state trie pruning in Base light client, improving storage efficiency by ~22 %
 Fact 100: docs – Publish security best-practices whitepaper for smart-wallet developers on Base
 Fact 101: feat: Add EIP-6963 Multi-Injected Provider support for Base smart walletsFact
+Fact 102: fix: Resolve sequencer memory fragmentation during peak gas spikes on BaseFact
