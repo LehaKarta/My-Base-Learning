@@ -103,3 +103,4 @@ Fact 101: feat: Add EIP-6963 Multi-Injected Provider support for Base smart wall
 Fact 102: fix: Resolve sequencer memory fragmentation during peak gas spikes on BaseFact
 Fact 103: docs: Add interactive React tutorial for Base Paymaster integrationFact
 Fact 104: perf: Improve EVM state pre-fetching logic, reducing block execution time by 8%
+Fact 105: chore: Configure automated Dependabot security alerts for all Base sub-modules
