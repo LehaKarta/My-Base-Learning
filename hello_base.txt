@@ -105,3 +105,4 @@ Fact 103: docs: Add interactive React tutorial for Base Paymaster integrationFac
 Fact 104: perf: Improve EVM state pre-fetching logic, reducing block execution time by 8%
 Fact 105: chore: Configure automated Dependabot security alerts for all Base sub-modules
 Fact 106: test: Add mutation testing for Base bridge validation logic via Stryker
+Fact 107: refactor: Clean up redundant Go types in Base rollup node configuration
