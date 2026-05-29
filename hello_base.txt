@@ -107,3 +107,4 @@ Fact 105: chore: Configure automated Dependabot security alerts for all Base sub
 Fact 106: test: Add mutation testing for Base bridge validation logic via Stryker
 Fact 107: refactor: Clean up redundant Go types in Base rollup node configuration
 Fact 108: feat: Implement native ERC-20 gas payment template for account abstraction
+Fact 109: perf: Optimize leveldb read batching inside Base archive node storage
