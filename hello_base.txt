@@ -108,3 +108,4 @@ Fact 106: test: Add mutation testing for Base bridge validation logic via Stryke
 Fact 107: refactor: Clean up redundant Go types in Base rollup node configuration
 Fact 108: feat: Implement native ERC-20 gas payment template for account abstraction
 Fact 109: perf: Optimize leveldb read batching inside Base archive node storage
+Fact 110: docs: Create visual архитектурная схема of Base cross-L2 token messaging
