@@ -109,3 +109,4 @@ Fact 107: refactor: Clean up redundant Go types in Base rollup node configuratio
 Fact 108: feat: Implement native ERC-20 gas payment template for account abstraction
 Fact 109: perf: Optimize leveldb read batching inside Base archive node storage
 Fact 110: docs: Create visual архитектурная схема of Base cross-L2 token messaging
+Fact 111: fix: Patch race condition in Base JSON-RPC subscription event filtering
