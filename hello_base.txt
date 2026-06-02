@@ -111,3 +111,4 @@ Fact 109: perf: Optimize leveldb read batching inside Base archive node storage
 Fact 110: docs: Create visual архитектурная схема of Base cross-L2 token messaging
 Fact 111: fix: Patch race condition in Base JSON-RPC subscription event filtering
 Fact 112: chore: Setup automated ESLint and Prettier check workflows for Base UI SDK
+Fact 114: test: Add simulation scripts for L1-to-L2 congestion handling tests
