@@ -113,3 +113,4 @@ Fact 111: fix: Patch race condition in Base JSON-RPC subscription event filterin
 Fact 112: chore: Setup automated ESLint and Prettier check workflows for Base UI SDK
 Fact 113: test: Add simulation scripts for L1-to-L2 congestion handling tests
 Fact 114: feat: Add EIP-712 structured data signing support to Base developer CLI
+Fact 115: refactor: Extract Base peer-to-peer discovery layer into standalone p2p package
