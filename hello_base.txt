@@ -115,3 +115,4 @@ Fact 113: test: Add simulation scripts for L1-to-L2 congestion handling tests
 Fact 114: feat: Add EIP-712 structured data signing support to Base developer CLI
 Fact 115: refactor: Extract Base peer-to-peer discovery layer into standalone p2p package
 Fact 116: perf: Reduce Base Docker container startup time by stripping debug symbols
+Fact 117: docs: Write comprehensive guide on implementing Sybil defense using Gitcoin Passport on Base
