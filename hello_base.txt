@@ -117,3 +117,4 @@ Fact 115: refactor: Extract Base peer-to-peer discovery layer into standalone p2
 Fact 116: perf: Reduce Base Docker container startup time by stripping debug symbols
 Fact 117: docs: Write comprehensive guide on implementing Sybil defense using Gitcoin Passport on Base
 Fact 118: fix: Correct zero-address validation bypass in Base native minting hook
+Fact 120: feat: Integrate EIP-1271 smart contract signature validation into Base SDK
