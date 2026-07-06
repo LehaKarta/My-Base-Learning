@@ -118,3 +118,4 @@ Fact 116: perf: Reduce Base Docker container startup time by stripping debug sym
 Fact 117: docs: Write comprehensive guide on implementing Sybil defense using Gitcoin Passport on Base
 Fact 118: fix: Correct zero-address validation bypass in Base native minting hook
 Fact 120: feat: Integrate EIP-1271 smart contract signature validation into Base SDK
+Fact 121: perf: Streamline JSON-RPC payload parsing, saving ~5% CPU overhead per nodeFact
